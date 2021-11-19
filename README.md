@@ -3,7 +3,7 @@ azertyuiop
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>VIP GAMING</title>
 </head>
 <body>
 
